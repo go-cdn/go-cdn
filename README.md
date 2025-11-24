@@ -18,9 +18,10 @@ We build fast, secure and scalable technology solutions for modern applications.
 
 ---
 
-📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=go-cdn&show_icons=true&theme=tokyonight)
-
+ 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=go-cdn&show_icons=true&theme=tokyonight" />
+</p>
 
 <h2>Languages and Tools</h2>
 <p align="left">
