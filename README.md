@@ -3,12 +3,12 @@
 
 ---
 
-🚀 About Us
+### 🚀 About Us  
 We build fast, secure and scalable technology solutions for modern applications.
 
 ---
 
-🛠️ Skills
+### 🛠️ Skills  
 - Mobile App Development  
 - API / Minimal API / Web Services  
 - Network & IT Support  
@@ -18,7 +18,7 @@ We build fast, secure and scalable technology solutions for modern applications.
 
 ---
 
- 📊 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=go-cdn&show_icons=true&theme=tokyonight" />
 </p>
