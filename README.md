@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">🌐 Cloud Data Network (CDN)</h1>
+<p align="center">Mobile App • Minimal API • Network Support • Desktop Apps • Oracle DB • Web Services</p>
 
-<!--
-**go-cdn/go-cdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Us
+We build fast, secure and scalable technology solutions for modern applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- Mobile App Development  
+- API / Minimal API / Web Services  
+- Network & IT Support  
+- Desktop Application Development  
+- Oracle Database  
+- Cloud & Backend Engineering  
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=go-cdn&show_icons=true&theme=tokyonight)
