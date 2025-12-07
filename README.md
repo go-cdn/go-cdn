@@ -1,5 +1,4 @@
 <img id="image" src="https://pub-158b35c7b15244f899f8c031562b2591.r2.dev/github_banner_cdn.png" alt="GitHub banner" />
-<h1 align="center">Cloud Data Network (CDN)</h1>
 <p align="center">Mobile App • Minimal API • Network Support • Desktop Apps • Oracle DB • Web Services</p>
 
 ---
